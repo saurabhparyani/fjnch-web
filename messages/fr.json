@@ -1,0 +1,21 @@
+{
+    "header": {
+    "keyFeatures": "Fonctionnalités clés",
+    "currentLanguage": "Français"
+  },
+    "hero": {
+      "title": "Une application, un financement facile.",
+      "subtitle": "Adieu le chaos financier !",
+      "description": "Une application pour regrouper tous vos comptes.",
+      "features": {
+        "finance": "Financement tout-en-un",
+        "analytics": "Analyses basées sur l'IA",
+        "trial": "Essai gratuit"
+      }
+    },
+    "cta": {
+      "title": "Lancement bientôt !",
+      "subscribe": "S'abonner",
+      "emailPlaceholder": "E-mail"
+    }
+  }

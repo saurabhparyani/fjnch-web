@@ -1,0 +1,21 @@
+{
+    "header": {
+    "keyFeatures": "Funzionalità chiave",
+    "currentLanguage": "Italiano"
+  },
+    "hero": {
+      "title": "Una sola app, finanza facile.",
+      "subtitle": "Addio caos finanziario!",
+      "description": "Un'unica app per combinare tutti i tuoi account.",
+      "features": {
+        "finance": "Finanziamenti tutto in uno",
+        "analytics": "Analisi basate sull'intelligenza artificiale",
+        "trial": "Prova gratuita"
+      }
+    },
+    "cta": {
+      "title": "Lancio presto!",
+      "subscribe": "Iscriviti",
+      "emailPlaceholder": "E-mail"
+    }
+  }

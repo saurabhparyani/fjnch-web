@@ -1,0 +1,21 @@
+{
+    "header": {
+    "keyFeatures": "Hauptfunktionen",
+    "currentLanguage": "Deutsch"
+  },
+    "hero": {
+      "title": "Eine App, einfache Finanzierung.",
+      "subtitle": "Schluss mit dem Finanzchaos!",
+      "description": "Eine App zum Kombinieren aller Ihrer Konten.",
+      "features": {
+        "finance": "All-in-One-Finanzierung",
+        "analytics": "KI-gestützte Analyse",
+        "trial": "Kostenlose Testversion"
+      }
+    },
+    "cta": {
+      "title": "Bald erhältlich!",
+      "subscribe": "Abonnieren",
+      "emailPlaceholder": "E-Mail"
+    }
+  }

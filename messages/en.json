@@ -1,0 +1,21 @@
+{
+    "header": {
+    "keyFeatures": "Key Features",
+    "currentLanguage": "English"
+  },
+    "hero": {
+      "title": "One app, easy finance.",
+      "subtitle": "Goodbye financial chaos!",
+      "description": "One app to combine all your accounts.",
+      "features": {
+        "finance": "All-in-one finance",
+        "analytics": "AI-powered analytics",
+        "trial": "Free trial"
+      }
+    },
+    "cta": {
+      "title": "Launching Soon!",
+      "subscribe": "Subscribe",
+      "emailPlaceholder": "E-mail"
+    }
+  }
