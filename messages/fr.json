@@ -16,6 +16,26 @@
     "cta": {
       "title": "Lancement bientôt !",
       "subscribe": "S'abonner",
-      "emailPlaceholder": "E-mail"
+      "emailPlaceholder": "E-mail",
+      "success": "Merci pour votre inscription à Fjnch !",
+      "error": "Quelque chose s'est mal passé. Veuillez réessayer."
+    },
+    "banks": {
+      "title": "Banques connectées",
+      "footer": "et plus bientôt !"
+    },
+    "features": {
+      "group1": {
+        "title": "Financement tout-en-un",
+        "description": "Grâce à l'API Open Banking de pointe de Fjnch, plusieurs comptes bancaires peuvent être intégrés en quelques secondes dans une seule vue d'un simple clic, permettant à vos transactions d'être automatiquement catégorisées en visuels faciles à comprendre. De plus, nos ingénieurs accordent la priorité à la sécurité, au chiffrement robuste et aux méthodes d'authentification testées pour protéger vos données, afin que vous puissiez gérer vos finances en toute tranquillité."
+      },
+      "group2": {
+        "title": "Analyses basées sur l'IA", 
+        "description": "Grâce aux analyses basées sur l'IA, vous obtenez des aperçus détaillés de vos modèles de revenus, de vos habitudes de dépenses, et des recommandations personnalisées pour optimiser votre stratégie d'épargne. Vos notifications intelligentes personnalisées vous permettront de prendre des décisions éclairées concernant votre avenir financier - c'est enfin entre vos mains ! En analysant vos données financières en temps réel, Fjnch vous aide également à identifier des opportunités autrement négligées, augmentant ainsi vos économies."
+      },
+      "group3": {
+        "title": "Vos objectifs d'épargne",
+        "description": "Avec une interface intuitive, vous pouvez facilement créer et suivre plusieurs objectifs d'épargne simultanément. Définissez des objectifs et des délais spécifiques, et suivez votre progression avec des mises à jour en temps réel. La mission principale de Fjnch est de vous aider à atteindre vos objectifs financiers le plus rapidement possible, afin que vous puissiez faire plus de choses que vous aimez vraiment dans la vie :)"
+      }
     }
   }

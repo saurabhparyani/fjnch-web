@@ -12,7 +12,8 @@ export default {
         background: "var(--background)",
         foreground: "var(--foreground)",
         yellow: '#FFCC3A',
-        gray: '#F4F4F4'
+        greycolor: '#F4F4F4',
+        slatecolor: '#4B4B4B'
       },
       fontFamily: {
         nico: ["var(--font-nico)"],

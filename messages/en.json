@@ -16,6 +16,26 @@
     "cta": {
       "title": "Launching Soon!",
       "subscribe": "Subscribe",
-      "emailPlaceholder": "E-mail"
+      "emailPlaceholder": "E-mail",
+      "success": "Thank you for joining Fjnch!",
+      "error": "Something went wrong. Please try again."
+    },
+    "banks": {
+      "title": "Connected Banks",
+      "footer": "and more coming soon!"
+    },
+    "features": {
+      "group1": {
+        "title": "All-In-One Finance",
+        "description": "With Fjnch's high-tech Open Banking API, multiple bank accounts can be integrated within seconds into one view at the push of a button, enabling your transactions to be categorized automatically into easy-to-understand visuals. Additionally, our engineers prioritize security, robust encryption and tested authentication methods to protect your data, so you can manage your finances in peace."
+      },
+      "group2": {
+        "title": "AI-Powered Analytics",
+        "description": "With AI-powered analytics, detailed insights are provided into your income patterns, spending habits, and personalized recommendations are given to optimize your savings strategy. Your customized intelligence notifications will result in smart decisions about your financial future - it's finally in your hands! By analyzing your financial data real-time, Fjnch also helps you identify opportunities otherwise overlooked, increasing your savings."
+    },
+    "group3": {
+      "title": "Your Savings Goals",
+      "description": "With an intuitive interface, you can easily create and track multiple savings goals simultaneously. Set specific targets and deadlines, and watch your progress with real-time updates. Fjnch's main mission is to help you achieve your financial goals as soon as possible, so you can do more of the things you really love in life :)"
     }
   }
+}

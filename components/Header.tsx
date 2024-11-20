@@ -4,7 +4,11 @@ import { useTranslations } from "next-intl";
 import { Link, usePathname } from "@/i18n/routing";
 import { useState } from "react";
 
-const Header = () => {
+interface HeaderProps {
+  onFeatureClick: () => void;
+}
+
+const Header = ({ onFeatureClick }: HeaderProps) => {
   const [isOpen, setIsOpen] = useState(false);
   const t = useTranslations("header");
   const pathname = usePathname();
@@ -32,17 +36,17 @@ const Header = () => {
           </div>
         </Link>
         <div className="flex flex-row items-center space-x-14">
-          <div className="gap-1">
+          <button onClick={onFeatureClick} className="gap-1 cursor-pointer">
             <div className="font-medium text-xl font-inter">
               {t("keyFeatures")}
             </div>
             <div className="border-b-[3px] border-yellow" />
-          </div>
+          </button>
 
           <div className="relative">
             <button
               onClick={() => setIsOpen(!isOpen)}
-              className="flex flex-row items-center space-x-[5px] cursor-pointer"
+              className="flex flex-row items-center space-x-[5px] cursor-pointer hover:underline hover:underline-offset-2"
             >
               <Image
                 src="/images/globe_svg.svg"

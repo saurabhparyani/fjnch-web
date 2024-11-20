@@ -16,6 +16,26 @@
     "cta": {
       "title": "Bald erhältlich!",
       "subscribe": "Abonnieren",
-      "emailPlaceholder": "E-Mail"
+      "emailPlaceholder": "E-Mail",
+      "success": "Vielen Dank für die Anmeldung bei Fjnch!",
+      "error": "Etwas ist schief gelaufen. Bitte versuche es erneut."
+    },
+    "banks": {
+      "title": "Verbindete Banken",
+      "footer": "und mehr bald verfügbar!"
+    },
+    "features": {
+      "group1": {
+        "title": "All-In-One-Finanzierung",
+        "description": "Mit Fjnchs hochmoderner Open-Banking-API können mehrere Bankkonten auf Knopfdruck innerhalb von Sekunden in einer Übersicht integriert werden, wodurch Ihre Transaktionen automatisch in leicht verständliche Visualisierungen kategorisiert werden. Darüber hinaus legen unsere Ingenieure Wert auf Sicherheit, robuste Verschlüsselung und getestete Authentifizierungsmethoden zum Schutz Ihrer Daten, damit Sie Ihre Finanzen in Ruhe verwalten können."
+      },
+      "group2": {
+        "title": "KI-gestützte Analyse",
+        "description": "Mit KI-gestützter Analyse erhalten Sie detaillierte Einblicke in Ihre Einkommensmuster und Ausgabegewohnheiten sowie personalisierte Empfehlungen zur Optimierung Ihrer Sparstrategie. Ihre maßgeschneiderten Intelligenz-Benachrichtigungen führen zu klugen Entscheidungen über Ihre finanzielle Zukunft - sie liegt endlich in Ihren Händen! Durch die Analyse Ihrer Finanzdaten in Echtzeit hilft Fjnch Ihnen auch dabei, bisher übersehene Möglichkeiten zu erkennen und Ihre Ersparnisse zu erhöhen."
+      },
+      "group3": {
+        "title": "Ihre Sparziele",
+        "description": "Mit einer intuitiven Benutzeroberfläche können Sie ganz einfach mehrere Sparziele gleichzeitig erstellen und verfolgen. Legen Sie spezifische Ziele und Fristen fest und verfolgen Sie Ihren Fortschritt mit Echtzeit-Updates. Fjnchs Hauptmission ist es, Ihnen zu helfen, Ihre finanziellen Ziele so schnell wie möglich zu erreichen, damit Sie mehr von den Dingen tun können, die Sie im Leben wirklich lieben :)"
+      }
     }
   }

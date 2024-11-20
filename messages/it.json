@@ -16,6 +16,26 @@
     "cta": {
       "title": "Lancio presto!",
       "subscribe": "Iscriviti",
-      "emailPlaceholder": "E-mail"
+      "emailPlaceholder": "E-mail",
+      "success": "Grazie per esserti iscritto a Fjnch!",
+      "error": "Qualcosa è andato storto. Per favore, riprova."
+    },
+    "banks": {
+      "title": "Banche collegate",
+      "footer": "e molte altre a breve!"
+    },
+    "features": {
+      "group1": {
+        "title": "Finanziamenti tutto in uno",
+        "description": "Grazie all'API Open Banking all'avanguardia di Fjnch, più conti bancari possono essere integrati in pochi secondi in un'unica vista con un solo clic, consentendo alle tue transazioni di essere categorizzate automaticamente in visualizzazioni facili da comprendere. Inoltre, i nostri ingegneri danno priorità alla sicurezza, alla crittografia robusta e ai metodi di autenticazione testati per proteggere i tuoi dati, così puoi gestire le tue finanze in tranquillità."
+      },
+      "group2": {
+        "title": "Analisi basate sull'intelligenza artificiale",
+        "description": "Con le analisi basate sull'intelligenza artificiale, vengono forniti approfondimenti dettagliati sui tuoi modelli di reddito, abitudini di spesa e raccomandazioni personalizzate per ottimizzare la tua strategia di risparmio. Le tue notifiche intelligenti personalizzate porteranno a decisioni intelligenti sul tuo futuro finanziario - è finalmente nelle tue mani! Analizzando i tuoi dati finanziari in tempo reale, Fjnch ti aiuta anche a identificare opportunità altrimenti trascurate, aumentando i tuoi risparmi."
+      },
+      "group3": {
+        "title": "I tuoi obiettivi di risparmio",
+        "description": "Con un'interfaccia intuitiva, puoi facilmente creare e monitorare più obiettivi di risparmio contemporaneamente. Imposta obiettivi e scadenze specifici e osserva i tuoi progressi con aggiornamenti in tempo reale. La missione principale di Fjnch è aiutarti a raggiungere i tuoi obiettivi finanziari il più presto possibile, così potrai fare di più delle cose che ami davvero nella vita :)"
+      }
     }
   }
